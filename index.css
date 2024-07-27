@@ -54,6 +54,9 @@ body {
   font-weight: 600;
   opacity: 0.7;
   margin-left: 2.5vw;
+  background-image: linear-gradient(43deg,#52fa35 0%,#50c8c4 46%, #709bff 100%);
+ background-clip: text;
+  color: transparent;
 }
 #hadding #haddingchild-2 {
   margin-left: 15vw;
